@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052449748540",
+    "project_id": "aplikasibengkel-36c8b",
+    "storage_bucket": "aplikasibengkel-36c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052449748540:android:0091168d9df9532eb3b539",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_bengkelsehat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052449748540-meafvqrm112kvf96hloifb80kpbukpol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ50wJvv2iIsZzjTmYRagb8cWBBMty92c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052449748540-meafvqrm112kvf96hloifb80kpbukpol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
